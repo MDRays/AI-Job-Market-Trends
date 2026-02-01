@@ -1,5 +1,7 @@
 # **AI Job Market Trends: Analytics, Statistics & Tableau Dashboard**
 
+Source: https://www.kaggle.com/datasets/abhishekjaiswal4896/ai-job-market-trends/data
+
 ## **Project Overview**
 This project provides a data-driven analysis of the global AI job market, specifically comparing **Data Analyst** and **Data Scientist** roles. Utilizing a comprehensive Kaggle dataset (September 2023 – September 2025), I aimed to provide actionable insights for job seekers regarding salary benchmarks, required skills, and optimal application timing.
 
